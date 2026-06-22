@@ -87,7 +87,11 @@ Centrālā saite ir `organizacijas` tabula (pasūtītāji + piegādātāji), uz 
 
 - **Avots:** [data.gov.lv](https://data.gov.lv/dati/lv/dataset?q=eis) — EIS atvērtie dati (publicē Valsts digitālās attīstības aģentūra) un Uzņēmumu reģistra dati.
 - **Atjaunošana:** datu kopas data.gov.lv tiek atjauninātas katru dienu.
-- **Licence:** CC0 1.0.
+- **Datu licence:** apstrādātie dati nāk no data.gov.lv ar to publicētāju noteikumiem (CC0 1.0); šī projekta licence tos **nesedz**.
+- **Koda un zināšanu bāzes licence:** **GNU AGPLv3** — skat. [`LICENSE`](LICENSE).
+  - Spēcīga *copyleft*: kas lieto vai pārveido šo darbu (arī kā tiešsaistes pakalpojumu), tam jāatver pirmkods ar to pašu licenci.
+  - **Obligāta autora norāde** visās kopijās, atvasinājumos un publicētajos rezultātos: *"Based on EIS Open Data Skill by Pēteris Jurčenko (https://github.com/lata-org/eis-opendata-skill)"*.
+  - Autortiesību īpašnieks Pēteris Jurčenko patur visas tiesības un var licencēt darbu arī ar citiem (t.sk. komerciāliem) noteikumiem (duālā licencēšana).
 
 ---
 
